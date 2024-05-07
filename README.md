@@ -1,2 +1,5 @@
-# Curso-23-24
+
+Alvaro Garrido Campos
+
 Llorenç Alfonso Sanchis 1ºDAW
+
