@@ -6,3 +6,6 @@ libro 3
 1. La Biblia
 2. Citas del Presidente Mao Tse-Tung
 3. Harry Potter
+libro1
+libro2
+libro3
